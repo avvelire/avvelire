@@ -2,13 +2,13 @@
 
 <h3 align="left">Frontend developer from Ukraine</h3>
 
- I have actively worked on several pet projects ( you can check it <a href="https://github.com/avvelire" target="_blank">here</a> ), which have allowed me to refine my skills in Front-end development. Additionally, I have had the opportunity to work on the Front-end part of client websites on a freelance basis, gaining valuable experience in dealing with real clients and project requirements.
+ I have actively worked on several pet projects ( you can check it <a href="https://github.com/avvelire?tab=repositories" target="_blank">here</a> ), which have allowed me to refine my skills in Front-end development. Additionally, I have had the opportunity to work on the Front-end part of client websites on a freelance basis, gaining valuable experience in dealing with real clients and project requirements.
 
   
 
   
 
-<h3 color="red" align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p  align="left">
 <a  href="https://t.me/avvelire"  target="_blank"><img  align="center"  src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  alt="andrew-vasylkiv-b37913262/"  height="30"  width="40"  /></a>   <a  href="https://www.linkedin.com/in/andrew-vasylkiv-b37913262/"  target="_blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="andrew-vasylkiv-b37913262/"  height="30"  width="40"  /></a>   <a href="mailto:vasylkivandrej@gmail.com"  target="_blank"><img  align="center"  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  height="30"  width="40"  /></a> </p>
